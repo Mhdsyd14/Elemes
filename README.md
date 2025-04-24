@@ -7,7 +7,7 @@ Slicing test " Junior Frontend Developer"
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Mhdsyd14/Elemes.git
 ```
 
 Go to the project directory

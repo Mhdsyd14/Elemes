@@ -97,7 +97,6 @@ export default function CategoryReceipt() {
         </div>
       </div>
 
-      {/* Tombol navigasi (hanya muncul di desktop) */}
       <div className="hidden sm:flex gap-3 justify-end mt-6 mr-24">
         <button
           onClick={handlePrev}
